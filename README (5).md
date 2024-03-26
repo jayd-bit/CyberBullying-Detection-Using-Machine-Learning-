@@ -1,4 +1,4 @@
-# CyberBullying-Detection-in-Hinglish-Languages-Using-Machine-Learning-
+# CyberBullying-Detection-in-Using-Machine-Learning-
 
 <img src="output/why_topic.png" width="520" >
 
