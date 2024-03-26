@@ -140,7 +140,7 @@ Whenever the user posts a message in the chat, our prediction service will the l
 
 Whenever the user posts a message in the chat, our prediction service will load the model and if the text enter is categorized as bullying, then the message will be not displayed on the chat screen, the sender will get the warning as Stop bullying people and behave decently and the receiver will not receive the bullying message. Instead, they will be informed that a bullying message has been detected it and it is hidden as shown in the video below.
 
-https://user-images.githubusercontent.com/45121295/171021974-c23572c2-2a20-4149-80b0-75192d85e5a4.mov
+
 
 ### Installation :- 
 
@@ -152,7 +152,7 @@ https://user-images.githubusercontent.com/45121295/171021974-c23572c2-2a20-4149-
 - then in the safechat folder to run the group chat application first run server.py. then client.py, and then run client_GUI.py. 
 
 
-###  Made with &nbsp;❤️ by  Jaydip Singh,Amit Singh
+###  Made with &nbsp;❤️ by  Jaydip Singh, Karan Shah
 
 
 
