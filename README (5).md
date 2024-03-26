@@ -151,7 +151,7 @@ Whenever the user posts a message in the chat, our prediction service will load 
 - then in the safechat folder to run the group chat application first run server.py. then client.py, and then run client_GUI.py. 
 
 
-###  Made with &nbsp;❤️ by  Jaydip Singh, Karan Shah
+###  Made with &nbsp;❤️ by  Jaydip Singh, Amit
 
 
 
