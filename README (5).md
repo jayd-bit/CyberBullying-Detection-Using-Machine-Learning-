@@ -124,7 +124,6 @@ TF-IDF gives slightly better accuracy then CV because it not only aims on the fr
 
 We have made a service wrapper using flask for our prediction model. Now whenever the group of users write or post the messages in format of text, it will request our service wrapper and our service wrapper will load the Machine learning model which is in pickle file. this ML model will predict whether the given message is bullying or non-bullying i.e either 1 or 0 and will return to the service wrapper. Later our service wrapper will respond to the users, whether the message enter is bullying or non-bullying.
 
-https://user-images.githubusercontent.com/45121295/171021596-d0ec356a-b610-4d43-b4c8-6d3b5c2e4f72.mov
 
 We have tested our prediction service using flask on postman. The request and response body we have used is shown in the about video
 
