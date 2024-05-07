@@ -45,6 +45,7 @@ class Server:
         while True:
             try:
                 message = connection.recv(1024)
+                
                 pred=0
                 if message:
                     if str(message.decode()) == "FILE":
